@@ -1,0 +1,7 @@
+{
+  "universal": {
+    "project": "ssr-sample",
+    "skipInstall": false,
+    "directory": "."
+  }
+}
